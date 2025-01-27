@@ -784,3 +784,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Jan2025 13:00:53.336] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2626, y=-11, z=-31}
 [27Jan2025 13:01:14.321] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2729, y=15, z=-122}
 [27Jan2025 13:01:14.321] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2729, y=15, z=-123}
+[27Jan2025 13:01:35.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 198.500000, 12.500000, 69.500000]
+[27Jan2025 13:10:12.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 62.500000, 37.500000, 408.500000]
+[27Jan2025 13:11:34.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=52, z=431} BlockPos{x=113, y=52, z=431}
+[27Jan2025 13:11:34.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=52, z=431} BlockPos{x=113, y=52, z=431}
+[27Jan2025 13:11:34.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=112, y=52, z=431} BlockPos{x=113, y=52, z=431}
+[27Jan2025 13:11:52.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 164.500000, 52.500000, 355.500000]

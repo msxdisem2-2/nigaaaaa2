@@ -820,6 +820,7 @@
       "minecraft:ravager": "2025-01-26 04:28:45 +0000",
       "minecraft:hoglin": "2025-01-17 21:29:49 +0000",
       "minecraft:vindicator": "2025-01-14 16:21:11 +0000",
+      "minecraft:magma_cube": "2025-01-27 13:07:19 +0000",
       "minecraft:spider": "2025-01-13 23:48:24 +0000",
       "minecraft:creeper": "2025-01-13 23:47:59 +0000",
       "minecraft:wither": "2025-01-25 22:16:25 +0000",
@@ -849,6 +850,7 @@
       "minecraft:ravager": "2025-01-26 04:28:45 +0000",
       "minecraft:hoglin": "2025-01-17 21:29:49 +0000",
       "minecraft:vindicator": "2025-01-14 16:21:11 +0000",
+      "minecraft:magma_cube": "2025-01-27 13:07:19 +0000",
       "minecraft:spider": "2025-01-13 23:48:24 +0000",
       "minecraft:creeper": "2025-01-13 23:47:59 +0000",
       "minecraft:wither": "2025-01-25 22:16:25 +0000",
@@ -12289,6 +12291,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_nether": "2025-01-27 12:59:04 +0000",
       "in_pyramid_flower_forest": "2025-01-20 01:59:50 +0000"
     },
     "done": false
@@ -14988,15 +14991,69 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-01-27 12:56:05 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-01-27 12:56:05 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
     },
     "done": false
   },
@@ -15009,6 +15066,18 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-01-27 12:52:37 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
     },
     "done": false
   },
