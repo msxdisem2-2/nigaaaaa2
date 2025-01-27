@@ -767,3 +767,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Jan2025 13:38:05.626] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
 [27Jan2025 13:39:03.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
 [27Jan2025 13:39:43.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has completed the challenge [Thine end is here.]
+[27Jan2025 13:48:28.752] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[27Jan2025 13:51:53.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
