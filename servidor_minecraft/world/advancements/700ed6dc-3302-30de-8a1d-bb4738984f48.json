@@ -14991,6 +14991,108 @@
     },
     "done": false
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-27 12:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-27 12:52:37 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_nether_bricks": "2025-01-27 12:53:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-27 12:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-27 12:56:05 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/stable_body": {
+    "criteria": {
+      "has_crying_obsidian": "2025-01-27 12:56:05 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/brimstone_bud": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-27 13:00:15 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-01-27 13:15:26 +0000"
@@ -15063,108 +15165,6 @@
       "log_spam_fixer": "2025-01-27 13:15:26 +0000"
     },
     "done": false
-  },
-  "biomesoplenty:recipes/decorations/brimstone_cluster": {
-    "criteria": {
-      "has_brimstone": "2025-01-27 13:00:15 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-01-27 13:00:15 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/decorations/brimstone_bud_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-01-27 13:00:15 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-01-27 13:00:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-01-27 12:56:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/brimstone_fumarole": {
-    "criteria": {
-      "has_brimstone": "2025-01-27 13:00:15 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-01-27 13:00:15 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/decorations/brimstone_bud": {
-    "criteria": {
-      "has_brimstone": "2025-01-27 13:00:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-01-27 12:56:05 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-01-27 13:00:15 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
-    "criteria": {
-      "has_brimstone": "2025-01-27 13:00:15 +0000"
-    },
-    "done": false
-  },
-  "repurposed_structures:shipwrecks": {
-    "criteria": {
-      "in_shipwreck_nether_bricks": "2025-01-27 12:53:32 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-01-27 12:52:37 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-01-27 13:00:15 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2025-01-27 13:00:15 +0000"
-    },
-    "done": false
-  },
-  "l2complements:recipes/enchantments/enchantments/stable_body": {
-    "criteria": {
-      "has_crying_obsidian": "2025-01-27 12:56:05 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-01-27 12:52:14 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
