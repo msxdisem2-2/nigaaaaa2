@@ -14730,75 +14730,9 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "l2complements:recipes/burnt/burnt/cooked_beef": {
     "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 05:50:49 +0000"
+      "has_cooked_beef": "2025-01-26 04:29:43 +0000"
     },
     "done": false
   },
@@ -14808,28 +14742,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_the_recipe": "2025-01-26 05:42:59 +0000",
-      "has_coal_block": "2025-01-26 05:38:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
-    "criteria": {
-      "has_planks": "2025-01-26 04:49:21 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
     "criteria": {
       "has_gold_block": "2025-01-26 04:34:34 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-01-26 05:11:35 +0000"
     },
     "done": false
   },
@@ -14851,21 +14766,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-01-26 05:11:35 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
     "criteria": {
       "has_gold_block": "2025-01-26 04:34:34 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/stripped_oak_blinds": {
-    "criteria": {
-      "has_log": "2025-01-26 05:11:35 +0000"
     },
     "done": false
   },
@@ -14875,46 +14778,15 @@
     },
     "done": false
   },
-  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-26 04:49:21 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_planks": "2025-01-26 04:49:21 +0000"
-    },
-    "done": false
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
     "criteria": {
       "has_gold_block": "2025-01-26 04:34:34 +0000"
     },
     "done": false
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-26 04:49:21 +0000"
-    },
-    "done": false
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
     "criteria": {
       "has_gold_block": "2025-01-26 04:34:34 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_the_recipe": "2025-01-26 05:41:59 +0000",
-      "has_raw_iron_block": "2025-01-26 05:24:14 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/cooked_beef": {
-    "criteria": {
-      "has_cooked_beef": "2025-01-26 04:29:43 +0000"
     },
     "done": false
   },
@@ -14948,6 +14820,72 @@
     },
     "done": false
   },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
+    "criteria": {
+      "has_gold_block": "2025-01-26 04:34:34 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
+    "criteria": {
+      "has_gold_block": "2025-01-26 04:34:34 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-26 04:34:34 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
+    "criteria": {
+      "has_gold_block": "2025-01-26 04:34:34 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-26 04:34:34 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
+    "criteria": {
+      "has_gold_block": "2025-01-26 04:34:34 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
+    "criteria": {
+      "has_gold_block": "2025-01-26 04:34:34 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2025-01-26 04:49:21 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-26 04:49:21 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-01-26 04:49:21 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-26 04:49:21 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_slab": {
     "criteria": {
       "has_planks": "2025-01-26 04:49:21 +0000"
@@ -14966,21 +14904,9 @@
     },
     "done": false
   },
-  "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
-    "criteria": {
-      "has_gold_block": "2025-01-26 04:34:34 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:recipes/redstone/mahogany_button": {
     "criteria": {
       "has_planks": "2025-01-26 04:49:21 +0000"
-    },
-    "done": false
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
-    "criteria": {
-      "has_gold_block": "2025-01-26 04:34:34 +0000"
     },
     "done": false
   },
@@ -14990,15 +14916,27 @@
     },
     "done": false
   },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
     "criteria": {
-      "has_gold_block": "2025-01-26 04:34:34 +0000"
+      "has_planks": "2025-01-26 04:49:21 +0000"
     },
     "done": false
   },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
+  "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
-      "has_gold_block": "2025-01-26 04:34:34 +0000"
+      "has_stripped_logs": "2025-01-26 05:11:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-26 05:11:35 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-01-26 05:11:35 +0000"
     },
     "done": false
   },
@@ -15008,35 +14946,25 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 05:41:59 +0000",
+      "has_raw_iron_block": "2025-01-26 05:24:14 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:troll_hunter": {
     "criteria": {
       "troll_hunter_0": "2025-01-26 05:26:52 +0000"
     },
     "done": true
   },
-  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_gold_block": "2025-01-26 04:34:34 +0000"
+      "has_the_recipe": "2025-01-26 05:42:59 +0000",
+      "has_coal_block": "2025-01-26 05:38:22 +0000"
     },
-    "done": false
-  },
-  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-26 04:49:21 +0000"
-    },
-    "done": false
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
-    "criteria": {
-      "has_gold_block": "2025-01-26 04:34:34 +0000"
-    },
-    "done": false
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
-    "criteria": {
-      "has_gold_block": "2025-01-26 04:34:34 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
