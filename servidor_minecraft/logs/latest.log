@@ -769,3 +769,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Jan2025 04:10:50.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [They Have a Cave Troll!]
 [29Jan2025 04:11:17.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
 [29Jan2025 04:14:10.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[29Jan2025 04:23:33.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[29Jan2025 04:25:45.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]

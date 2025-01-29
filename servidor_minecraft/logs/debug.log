@@ -12201,3 +12201,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Jan2025 04:14:10.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
 [29Jan2025 04:14:34.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jan2025 04:14:34.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 04:19:34.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 04:19:34.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 04:22:15.943] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1297, l='ServerLevel[world]', x=595.99, y=137.00, z=-424.85]
+[29Jan2025 04:23:33.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[29Jan2025 04:24:34.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 04:24:34.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 04:25:45.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
