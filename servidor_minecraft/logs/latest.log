@@ -757,3 +757,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Jan2025 14:50:35.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
 [29Jan2025 14:58:23.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
 [29Jan2025 14:58:43.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[29Jan2025 15:04:17.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[29Jan2025 15:05:16.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[29Jan2025 15:05:54.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
