@@ -14972,5 +14972,29 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-29 04:10:56 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-29 04:10:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-29 04:10:56 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-29 04:10:56 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
