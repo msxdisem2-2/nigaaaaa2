@@ -20479,5 +20479,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-01-30 01:02:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

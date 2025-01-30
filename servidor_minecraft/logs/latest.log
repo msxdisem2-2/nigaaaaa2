@@ -763,3 +763,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Jan2025 00:56:01.288] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [30Jan2025 00:56:16.208] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [30Jan2025 00:56:16.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15916ms or 318 ticks behind
+[30Jan2025 01:02:03.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [Sniper Duel]
