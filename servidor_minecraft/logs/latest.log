@@ -784,3 +784,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 19:46:40.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
 [01Feb2025 19:47:35.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]
 [01Feb2025 19:49:37.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro moved wrongly!
+[01Feb2025 19:53:07.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Timed out
+[01Feb2025 19:53:07.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[01Feb2025 19:53:07.253] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[01Feb2025 19:56:09.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=942, y=114, z=-344} BlockPos{x=940, y=113, z=-344}
+[01Feb2025 19:56:27.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.94.65.49:50410] logged in with entity id 10875 at (985.6999999880791, 114.51679409440437, -478.0645317457526)
+[01Feb2025 19:56:27.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[01Feb2025 19:56:27.394] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[01Feb2025 19:56:27.394] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[01Feb2025 19:56:27.394] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[01Feb2025 19:56:27.397] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[01Feb2025 19:56:27.936] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[01Feb2025 19:57:07.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved wrongly!
+[01Feb2025 19:57:22.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[01Feb2025 19:58:09.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=855, y=115, z=-349} BlockPos{x=855, y=112, z=-349}
+[01Feb2025 19:58:09.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=855, y=115, z=-349} BlockPos{x=855, y=112, z=-349}
+[01Feb2025 19:58:09.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=855, y=115, z=-349} BlockPos{x=855, y=112, z=-349}
+[01Feb2025 19:58:09.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=855, y=115, z=-349} BlockPos{x=855, y=112, z=-349}
+[01Feb2025 19:58:40.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[01Feb2025 20:04:16.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Disconnected
+[01Feb2025 20:04:16.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
+[01Feb2025 20:04:16.294] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[01Feb2025 20:11:20.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eguaro[/100.94.15.45:50058] logged in with entity id 20419 at (983.0458558872256, 112.0, -471.94576265169405)
+[01Feb2025 20:11:20.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro joined the game
+[01Feb2025 20:11:21.058] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[01Feb2025 20:11:21.059] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[01Feb2025 20:11:21.059] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[01Feb2025 20:11:21.062] [Server thread/INFO] [Jade/]: Syncing config to Eguaro (700ed6dc-3302-30de-8a1d-bb4738984f48)
+[01Feb2025 20:11:23.701] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Eguaro: protocol version: 2.0
+[01Feb2025 20:12:36.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=938, y=114, z=-475} BlockPos{x=937, y=113, z=-475}
+[01Feb2025 20:12:36.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=938, y=114, z=-475} BlockPos{x=937, y=113, z=-475}
+[01Feb2025 20:12:36.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=938, y=114, z=-475} BlockPos{x=937, y=113, z=-475}
+[01Feb2025 20:12:36.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=938, y=114, z=-475} BlockPos{x=937, y=113, z=-475}
+[01Feb2025 20:12:36.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=938, y=114, z=-475} BlockPos{x=937, y=113, z=-475}
+[01Feb2025 20:12:36.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=938, y=114, z=-475} BlockPos{x=937, y=113, z=-475}
+[01Feb2025 20:12:36.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=938, y=114, z=-475} BlockPos{x=937, y=113, z=-475}
+[01Feb2025 20:12:36.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=938, y=114, z=-475} BlockPos{x=937, y=113, z=-475}
+[01Feb2025 20:12:36.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=938, y=114, z=-475} BlockPos{x=937, y=113, z=-475}
+[01Feb2025 20:12:41.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=936, y=113, z=-472} BlockPos{x=936, y=111, z=-472}
+[01Feb2025 20:12:43.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=935, y=116, z=-473} BlockPos{x=934, y=116, z=-474}
+[01Feb2025 20:12:45.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=935, y=114, z=-475} BlockPos{x=936, y=114, z=-475}
