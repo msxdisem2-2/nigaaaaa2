@@ -13099,3 +13099,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 22:40:52.809] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/86487, l='ServerLevel[world]', x=994.39, y=111.61, z=-348.51], dimensionLocationPath overworld
 [01Feb2025 22:40:52.809] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/86487, l='ServerLevel[world]', x=994.39, y=111.61, z=-348.51] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@e95]
 [01Feb2025 22:40:55.259] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Air'/86487, l='ServerLevel[world]', x=992.71, y=111.83, z=-348.13]
+[01Feb2025 22:43:41.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 22:43:41.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 22:48:41.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 22:48:41.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 22:52:20.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Disconnected
+[01Feb2025 22:52:20.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
+[01Feb2025 22:52:20.542] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[01Feb2025 22:52:20.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Eguaro: Kicked by an operator
+[01Feb2025 22:52:20.584] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

@@ -948,3 +948,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 22:01:50.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
 [01Feb2025 22:07:22.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=985, y=118, z=-464} BlockPos{x=984, y=118, z=-466}
 [01Feb2025 22:09:01.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=983, y=117, z=-454} BlockPos{x=982, y=116, z=-454}
+[01Feb2025 22:52:20.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Disconnected
+[01Feb2025 22:52:20.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
+[01Feb2025 22:52:20.542] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[01Feb2025 22:52:20.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Eguaro: Kicked by an operator
+[01Feb2025 22:52:20.584] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
