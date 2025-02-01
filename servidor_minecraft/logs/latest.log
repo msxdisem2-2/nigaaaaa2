@@ -799,3 +799,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 02:48:23.814] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [01Feb2025 02:48:25.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17584ms or 351 ticks behind
 [01Feb2025 02:53:02.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=905, y=113, z=-488} BlockPos{x=907, y=111, z=-488}
+[01Feb2025 03:07:20.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=836, y=113, z=-490} BlockPos{x=837, y=112, z=-490}
+[01Feb2025 03:07:20.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=836, y=113, z=-490} BlockPos{x=837, y=112, z=-490}
+[01Feb2025 03:07:20.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=837, y=113, z=-491} BlockPos{x=837, y=112, z=-490}
+[01Feb2025 03:10:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
