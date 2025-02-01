@@ -953,3 +953,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 22:52:20.542] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
 [01Feb2025 22:52:20.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Eguaro: Kicked by an operator
 [01Feb2025 22:52:20.584] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 23:38:19.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[01Feb2025 23:38:25.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
