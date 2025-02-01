@@ -924,3 +924,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 20:50:08.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=905, y=114, z=-407} BlockPos{x=905, y=113, z=-406}
 [01Feb2025 20:50:08.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=905, y=114, z=-407} BlockPos{x=905, y=113, z=-406}
 [01Feb2025 20:50:10.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=903, y=115, z=-405} BlockPos{x=903, y=114, z=-404}
+[01Feb2025 20:51:31.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=875, y=113, z=-404} BlockPos{x=873, y=112, z=-404}
+[01Feb2025 20:51:31.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=875, y=113, z=-404} BlockPos{x=873, y=112, z=-404}
+[01Feb2025 20:51:31.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=875, y=113, z=-404} BlockPos{x=873, y=112, z=-404}
+[01Feb2025 20:51:31.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=875, y=113, z=-404} BlockPos{x=873, y=112, z=-404}
+[01Feb2025 20:51:31.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=875, y=113, z=-404} BlockPos{x=873, y=112, z=-404}
+[01Feb2025 20:51:32.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=875, y=113, z=-404} BlockPos{x=873, y=112, z=-404}
+[01Feb2025 20:51:54.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=929, y=112, z=-399} BlockPos{x=927, y=113, z=-396}
+[01Feb2025 20:53:18.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=872, y=113, z=-403} BlockPos{x=874, y=113, z=-403}
+[01Feb2025 20:56:14.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=906, y=112, z=-390} BlockPos{x=906, y=111, z=-389}
+[01Feb2025 20:56:14.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=906, y=112, z=-390} BlockPos{x=906, y=111, z=-389}
+[01Feb2025 20:56:15.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=906, y=113, z=-392} BlockPos{x=908, y=112, z=-393}
+[01Feb2025 20:58:14.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=944, y=115, z=-381} BlockPos{x=944, y=114, z=-380}
+[01Feb2025 21:00:45.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
