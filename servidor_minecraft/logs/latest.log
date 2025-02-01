@@ -942,3 +942,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 21:25:20.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=964, y=115, z=-415} BlockPos{x=964, y=115, z=-414}
 [01Feb2025 21:41:49.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
 [01Feb2025 21:47:38.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=875, y=114, z=-465} BlockPos{x=874, y=114, z=-466}
+[01Feb2025 21:59:20.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has completed the challenge [Almost Unkillable]
+[01Feb2025 21:59:20.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Sucker
+[01Feb2025 21:59:20.573] [Server thread/INFO] [tombstone/]: The player Eguaro has successfully been saved
+[01Feb2025 22:01:50.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
