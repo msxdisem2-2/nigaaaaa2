@@ -12933,3 +12933,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 21:38:41.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Feb2025 21:38:41.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Feb2025 21:41:49.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
+[01Feb2025 21:43:41.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:43:41.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:47:38.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=875, y=114, z=-465} BlockPos{x=874, y=114, z=-466}
+[01Feb2025 21:48:41.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:48:41.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
