@@ -12323,3 +12323,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 19:41:49.562] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/level/block/entity/LecternBlockEntity$1 (target of net/minecraft/world/Container)
 [01Feb2025 19:41:49.642] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/github/alexthe666/iceandfire/entity/tile/PixieJarInvWrapper (target of net/minecraftforge/items/IItemHandler)
 [01Feb2025 19:42:15.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01Feb2025 19:42:45.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[01Feb2025 19:45:09.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 19:45:09.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 19:46:40.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[01Feb2025 19:46:42.097] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=613, y=76, z=-2728}
+[01Feb2025 19:46:42.097] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=613, y=76, z=-2729}
+[01Feb2025 19:46:45.365] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[01Feb2025 19:47:35.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]
+[01Feb2025 19:49:37.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro moved wrongly!
+[01Feb2025 19:50:09.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 19:50:09.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

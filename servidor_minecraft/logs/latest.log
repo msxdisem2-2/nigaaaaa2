@@ -780,3 +780,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 19:39:54.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=849, y=119, z=-462} BlockPos{x=848, y=118, z=-466}
 [01Feb2025 19:41:49.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 609.500000, 76.500000, -2734.500000]
 [01Feb2025 19:42:15.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01Feb2025 19:42:45.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[01Feb2025 19:46:40.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[01Feb2025 19:47:35.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]
+[01Feb2025 19:49:37.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro moved wrongly!
