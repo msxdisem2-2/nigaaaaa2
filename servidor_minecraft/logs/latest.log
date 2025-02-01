@@ -832,3 +832,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 03:16:30.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=844, y=116, z=-372} BlockPos{x=845, y=112, z=-374}
 [01Feb2025 03:16:30.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=844, y=116, z=-372} BlockPos{x=845, y=112, z=-374}
 [01Feb2025 03:19:26.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=842, y=116, z=-381} BlockPos{x=843, y=112, z=-381}
+[01Feb2025 03:24:21.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=117, z=-456} BlockPos{x=839, y=113, z=-455}
+[01Feb2025 03:30:44.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=122, z=-465} BlockPos{x=847, y=117, z=-464}
+[01Feb2025 03:30:46.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=122, z=-465} BlockPos{x=847, y=119, z=-472}
+[01Feb2025 03:30:46.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=122, z=-465} BlockPos{x=847, y=119, z=-472}
+[01Feb2025 03:30:47.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=117, z=-476} BlockPos{x=847, y=116, z=-475}
+[01Feb2025 03:30:51.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=847, y=117, z=-486} BlockPos{x=847, y=116, z=-486}
+[01Feb2025 03:35:30.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
+[01Feb2025 03:35:43.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[01Feb2025 03:37:24.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=848, y=118, z=-406} BlockPos{x=848, y=118, z=-405}
