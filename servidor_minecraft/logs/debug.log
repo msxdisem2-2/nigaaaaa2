@@ -12928,3 +12928,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 21:26:18.709] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Air'/54459, l='ServerLevel[world]', x=936.00, y=112.00, z=-348.56]
 [01Feb2025 21:28:41.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Feb2025 21:28:41.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:33:41.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:33:41.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:38:41.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 21:38:41.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 21:41:49.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
