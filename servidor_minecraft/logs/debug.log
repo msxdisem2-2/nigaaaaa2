@@ -12215,3 +12215,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Feb2025 03:48:22.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=943, y=131, z=-488} BlockPos{x=946, y=132, z=-488}
 [01Feb2025 03:48:23.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=948, y=130, z=-488} BlockPos{x=947, y=130, z=-488}
 [01Feb2025 03:48:33.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=958, y=125, z=-488} BlockPos{x=957, y=124, z=-488}
+[01Feb2025 03:52:44.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 03:52:44.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 03:53:57.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=921, y=131, z=-488} BlockPos{x=921, y=132, z=-488}
+[01Feb2025 03:55:29.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=871, y=127, z=-488} BlockPos{x=871, y=126, z=-488}
+[01Feb2025 03:55:30.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=872, y=126, z=-488} BlockPos{x=871, y=127, z=-488}
+[01Feb2025 03:55:57.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=920, y=127, z=-488} BlockPos{x=919, y=127, z=-488}
+[01Feb2025 03:56:54.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
+[01Feb2025 03:57:44.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Feb2025 03:57:44.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Feb2025 03:59:14.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=973, y=122, z=-481} BlockPos{x=971, y=120, z=-482}
+[01Feb2025 03:59:18.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=973, y=121, z=-478} BlockPos{x=972, y=122, z=-479}
+[01Feb2025 03:59:18.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=972, y=121, z=-478} BlockPos{x=972, y=122, z=-479}
+[01Feb2025 03:59:18.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=972, y=121, z=-478} BlockPos{x=972, y=122, z=-479}
+[01Feb2025 03:59:18.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=972, y=121, z=-478} BlockPos{x=972, y=122, z=-479}
+[01Feb2025 03:59:18.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=972, y=121, z=-478} BlockPos{x=972, y=122, z=-479}
+[01Feb2025 03:59:18.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=972, y=121, z=-478} BlockPos{x=972, y=122, z=-479}
+[01Feb2025 03:59:18.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=972, y=121, z=-478} BlockPos{x=972, y=122, z=-479}
+[01Feb2025 03:59:18.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=972, y=121, z=-478} BlockPos{x=972, y=122, z=-479}
+[01Feb2025 03:59:18.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=972, y=121, z=-478} BlockPos{x=972, y=122, z=-479}
+[01Feb2025 03:59:18.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=972, y=121, z=-478} BlockPos{x=972, y=122, z=-479}
