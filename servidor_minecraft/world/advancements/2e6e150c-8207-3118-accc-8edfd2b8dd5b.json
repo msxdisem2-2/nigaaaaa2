@@ -139,6 +139,7 @@
       "minecraft:jungle": "2024-12-31 23:21:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-24 00:28:47 +0000",
       "minecraft:warm_ocean": "2024-12-31 03:55:37 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-02 16:37:39 +0000",
       "minecraft:flower_forest": "2024-12-31 04:04:53 +0000",
       "minecraft:frozen_peaks": "2025-01-17 21:43:05 +0000",
       "minecraft:deep_dark": "2024-12-24 06:02:11 +0000",
@@ -20508,78 +20509,6 @@
   "iceandfire:recipes/combat/mountain_troll_leather_leggings": {
     "criteria": {
       "has_item": "2025-02-02 00:22:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-02 16:23:20 +0000"
     },
     "done": false
   },

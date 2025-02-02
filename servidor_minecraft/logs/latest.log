@@ -765,3 +765,83 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Feb2025 16:23:36.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
 [02Feb2025 16:23:36.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
 [02Feb2025 16:23:36.160] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[02Feb2025 16:31:12.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.94.65.49:51908] logged in with entity id 3339 at (846.4700532856591, 112.0, -414.9457944181206)
+[02Feb2025 16:31:12.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[02Feb2025 16:31:12.546] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[02Feb2025 16:31:12.546] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[02Feb2025 16:31:12.547] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[02Feb2025 16:31:12.551] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[02Feb2025 16:31:14.477] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[02Feb2025 16:31:14.493] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[02Feb2025 16:31:14.498] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[02Feb2025 16:35:06.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 982.500000, 67.500000, -1145.500000]
+[02Feb2025 16:36:26.462] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=983, y=-48, z=-2428}
+[02Feb2025 16:36:26.462] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=983, y=-48, z=-2426}
+[02Feb2025 16:36:27.339] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=695, y=-20, z=-2451}
+[02Feb2025 16:37:10.502] [Worker-Main-41/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1209, y=-42, z=-2880}
+[02Feb2025 16:37:10.503] [Worker-Main-41/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1211, y=-42, z=-2879}
+[02Feb2025 16:37:18.292] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=878, y=-21, z=-3009}
+[02Feb2025 16:38:23.607] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1021, y=-35, z=-4005}
+[02Feb2025 16:38:33.334] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=921, y=7, z=-4125}
+[02Feb2025 16:38:33.335] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=921, y=7, z=-4124}
+[02Feb2025 16:38:36.864] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains]] from pos BlockPos{x=949, y=71, z=-4133}
+[02Feb2025 16:38:39.875] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=950, y=70, z=-4133} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[02Feb2025 16:38:39.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=950, y=70, z=-4133}
+[02Feb2025 16:38:39.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=948, y=70, z=-4133} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[02Feb2025 16:38:39.877] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=948, y=70, z=-4133}
+[02Feb2025 16:38:39.877] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=950, y=71, z=-4133} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[02Feb2025 16:38:39.877] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=950, y=71, z=-4133}
+[02Feb2025 16:38:39.878] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=949, y=71, z=-4133} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
+[02Feb2025 16:38:39.878] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=949, y=71, z=-4133}
+[02Feb2025 16:38:39.879] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=948, y=71, z=-4133} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[02Feb2025 16:38:39.879] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=948, y=71, z=-4133}
+[02Feb2025 16:38:40.814] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=838, y=-48, z=-4188}
+[02Feb2025 16:38:40.814] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=838, y=-48, z=-4189}
+[02Feb2025 16:39:05.982] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=702, y=-47, z=-4214}
+[02Feb2025 16:39:05.982] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=702, y=-47, z=-4216}
+[02Feb2025 16:39:08.826] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=886, y=3, z=-4341}
+[02Feb2025 16:39:10.488] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=644, y=32, z=-4208}
+[02Feb2025 16:39:18.325] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=558, y=-12, z=-4326}
+[02Feb2025 16:39:18.326] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=556, y=-12, z=-4326}
+[02Feb2025 16:39:22.314] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=525, y=-7, z=-4314}
+[02Feb2025 16:39:39.367] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=783, y=-4, z=-4396}
+[02Feb2025 16:39:39.368] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=783, y=-4, z=-4394}
+[02Feb2025 16:39:52.971] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=777, y=5, z=-4506}
+[02Feb2025 16:39:58.772] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=429, y=36, z=-4482}
+[02Feb2025 16:40:06.459] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=437, y=67, z=-4501}
+[02Feb2025 16:40:09.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3775ms or 75 ticks behind
+[02Feb2025 16:40:10.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 0.1457169530048077,-3.3491814432371854,-17.057608024351794
+[02Feb2025 16:40:14.793] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=437, y=-4, z=-4560}
+[02Feb2025 16:40:23.483] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=393, y=-44, z=-4581}
+[02Feb2025 16:40:23.484] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=393, y=-44, z=-4579}
+[02Feb2025 16:40:30.974] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=304, y=-35, z=-4324}
+[02Feb2025 16:40:30.974] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=303, y=-35, z=-4324}
+[02Feb2025 16:40:32.046] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=303, y=-19, z=-4522}
+[02Feb2025 16:40:32.047] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=304, y=-19, z=-4522}
+[02Feb2025 16:40:32.900] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=317, y=-22, z=-4306}
+[02Feb2025 16:40:32.900] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=317, y=-22, z=-4307}
+[02Feb2025 16:40:51.764] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=149, y=-44, z=-4248}
+[02Feb2025 16:41:22.034] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=47, y=-15, z=-4402}
+[02Feb2025 16:41:44.535] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=422, y=38, z=-3935}
+[02Feb2025 16:41:54.493] [Worker-Main-53/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=640, y=-36, z=-3956}
+[02Feb2025 16:41:55.729] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/14762, l='ServerLevel[world]', x=318.97, y=64.00, z=-4296.29] died, message: 'Florist was slain by Fire Dragon'
+[02Feb2025 16:42:03.633] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=630, y=-48, z=-3903}
+[02Feb2025 16:42:03.634] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=630, y=-48, z=-3903}
+[02Feb2025 16:42:03.634] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=634, y=-48, z=-3898}
+[02Feb2025 16:42:03.634] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=634, y=-48, z=-3898}
+[02Feb2025 16:42:03.634] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=627, y=-48, z=-3896}
+[02Feb2025 16:42:03.635] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=627, y=-48, z=-3896}
+[02Feb2025 16:42:03.635] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=631, y=-45, z=-3901}
+[02Feb2025 16:42:03.635] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=631, y=-45, z=-3901}
+[02Feb2025 16:42:03.635] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=626, y=-44, z=-3895}
+[02Feb2025 16:42:03.636] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=626, y=-44, z=-3895}
+[02Feb2025 16:42:03.640] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=630, y=-48, z=-3903}
+[02Feb2025 16:42:03.641] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=634, y=-48, z=-3898}
+[02Feb2025 16:42:03.641] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=627, y=-48, z=-3896}
+[02Feb2025 16:42:03.645] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=631, y=-45, z=-3901}
+[02Feb2025 16:42:03.645] [Worker-Main-55/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=626, y=-44, z=-3895}
+[02Feb2025 16:42:27.239] [Worker-Main-51/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=448, y=-40, z=-3456}
+[02Feb2025 16:42:27.240] [Worker-Main-51/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=448, y=-40, z=-3455}
+[02Feb2025 16:42:27.257] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=445, y=-40, z=-3454}
+[02Feb2025 16:43:50.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 7.662792864370317,-4.062478770470122,15.121778214187088
+[02Feb2025 16:46:56.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 845.500000, 112.500000, -416.500000]
