@@ -761,3 +761,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Feb2025 16:10:24.217] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [02Feb2025 16:10:39.667] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [02Feb2025 16:10:39.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16416ms or 328 ticks behind
+[02Feb2025 16:19:33.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[02Feb2025 16:23:36.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[02Feb2025 16:23:36.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[02Feb2025 16:23:36.160] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
