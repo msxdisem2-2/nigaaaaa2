@@ -803,3 +803,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Feb2025 05:25:35.333] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [02Feb2025 05:25:35.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16265ms or 325 ticks behind
 [02Feb2025 05:27:21.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[02Feb2025 05:45:29.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=870, y=121, z=-483} BlockPos{x=869, y=120, z=-483}
+[02Feb2025 05:45:29.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=870, y=121, z=-483} BlockPos{x=869, y=120, z=-483}
+[02Feb2025 05:49:00.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=119, z=-479} BlockPos{x=924, y=119, z=-480}
