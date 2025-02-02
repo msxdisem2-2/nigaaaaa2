@@ -12939,3 +12939,160 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Feb2025 17:00:23.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Feb2025 17:05:23.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Feb2025 17:05:23.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 17:10:23.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 17:10:23.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 17:14:37.109] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=922.05, y=120.23, z=-446.80]
+[02Feb2025 17:14:40.909] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=940.14, y=123.39, z=-446.63], dimensionLocationPath overworld
+[02Feb2025 17:14:40.909] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=940.14, y=123.39, z=-446.63] in list []
+[02Feb2025 17:14:41.014] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=940.44, y=123.36, z=-446.42]
+[02Feb2025 17:14:41.259] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=940.63, y=123.37, z=-446.42], dimensionLocationPath overworld
+[02Feb2025 17:14:41.259] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=940.63, y=123.37, z=-446.42] in list []
+[02Feb2025 17:14:41.461] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=940.46, y=123.35, z=-446.92]
+[02Feb2025 17:14:41.659] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=940.43, y=123.28, z=-447.57], dimensionLocationPath overworld
+[02Feb2025 17:14:41.659] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=940.43, y=123.28, z=-447.57] in list []
+[02Feb2025 17:14:51.063] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=936.30, y=122.35, z=-447.63]
+[02Feb2025 17:14:52.159] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=934.39, y=122.64, z=-447.61], dimensionLocationPath overworld
+[02Feb2025 17:14:52.159] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=934.39, y=122.64, z=-447.61] in list []
+[02Feb2025 17:14:53.760] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=935.17, y=122.35, z=-447.70]
+[02Feb2025 17:14:53.959] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=935.66, y=122.36, z=-447.70], dimensionLocationPath overworld
+[02Feb2025 17:14:53.960] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=935.66, y=122.36, z=-447.70] in list []
+[02Feb2025 17:15:23.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 17:15:23.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 17:15:34.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=931, y=124, z=-449} BlockPos{x=935, y=123, z=-449}
+[02Feb2025 17:19:01.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
+[02Feb2025 17:19:10.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=954, y=119, z=-417} BlockPos{x=953, y=118, z=-417}
+[02Feb2025 17:19:10.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=954, y=119, z=-417} BlockPos{x=953, y=118, z=-417}
+[02Feb2025 17:19:13.728] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=954.40, y=118.00, z=-415.91]
+[02Feb2025 17:19:16.363] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=954.46, y=118.00, z=-416.12], dimensionLocationPath overworld
+[02Feb2025 17:19:16.363] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=954.46, y=118.00, z=-416.12] in list []
+[02Feb2025 17:20:23.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 17:20:23.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 17:22:08.214] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=943.23, y=117.34, z=-412.21]
+[02Feb2025 17:22:08.314] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=943.50, y=118.60, z=-412.46], dimensionLocationPath overworld
+[02Feb2025 17:22:08.314] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=943.50, y=118.60, z=-412.46] in list []
+[02Feb2025 17:22:09.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=944.62, y=117.03, z=-415.32]
+[02Feb2025 17:22:09.663] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=944.30, y=117.41, z=-416.70], dimensionLocationPath overworld
+[02Feb2025 17:22:09.663] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=944.30, y=117.41, z=-416.70] in list []
+[02Feb2025 17:22:13.511] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=949.68, y=117.34, z=-417.33]
+[02Feb2025 17:22:14.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=951, y=116, z=-416} BlockPos{x=950, y=115, z=-416}
+[02Feb2025 17:22:14.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=951, y=116, z=-416} BlockPos{x=950, y=115, z=-416}
+[02Feb2025 17:22:14.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=951, y=116, z=-416} BlockPos{x=950, y=115, z=-416}
+[02Feb2025 17:22:14.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=951, y=116, z=-416} BlockPos{x=950, y=115, z=-416}
+[02Feb2025 17:22:14.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=951, y=116, z=-416} BlockPos{x=950, y=115, z=-416}
+[02Feb2025 17:22:14.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=951, y=116, z=-416} BlockPos{x=950, y=115, z=-416}
+[02Feb2025 17:22:16.163] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=950.08, y=119.11, z=-412.74], dimensionLocationPath overworld
+[02Feb2025 17:22:16.163] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=950.08, y=119.11, z=-412.74] in list []
+[02Feb2025 17:22:17.062] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=951.70, y=117.00, z=-410.18]
+[02Feb2025 17:22:17.462] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=952.28, y=117.64, z=-410.76], dimensionLocationPath overworld
+[02Feb2025 17:22:17.462] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=952.28, y=117.64, z=-410.76] in list []
+[02Feb2025 17:24:51.510] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=950.49, y=116.42, z=-414.09]
+[02Feb2025 17:24:52.014] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=950.60, y=116.84, z=-413.80], dimensionLocationPath overworld
+[02Feb2025 17:24:52.014] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=950.60, y=116.84, z=-413.80] in list []
+[02Feb2025 17:25:23.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 17:25:23.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 17:26:02.317] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=946.56, y=116.40, z=-416.01]
+[02Feb2025 17:26:03.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=946.41, y=116.67, z=-416.58], dimensionLocationPath overworld
+[02Feb2025 17:26:03.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=946.41, y=116.67, z=-416.58] in list []
+[02Feb2025 17:27:30.861] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=944.57, y=115.34, z=-415.09]
+[02Feb2025 17:27:31.012] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=945.13, y=115.25, z=-415.16], dimensionLocationPath overworld
+[02Feb2025 17:27:31.012] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=945.13, y=115.25, z=-415.16] in list []
+[02Feb2025 17:27:31.069] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=945.33, y=115.22, z=-415.16]
+[02Feb2025 17:27:31.266] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=946.07, y=115.12, z=-415.33], dimensionLocationPath overworld
+[02Feb2025 17:27:31.266] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=946.07, y=115.12, z=-415.33] in list []
+[02Feb2025 17:27:45.559] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=941.68, y=115.20, z=-409.30]
+[02Feb2025 17:27:45.664] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=941.66, y=116.52, z=-409.30], dimensionLocationPath overworld
+[02Feb2025 17:27:45.664] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=941.66, y=116.52, z=-409.30] in list []
+[02Feb2025 17:28:53.260] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=945.34, y=113.34, z=-409.44]
+[02Feb2025 17:28:53.364] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=945.34, y=112.25, z=-409.43], dimensionLocationPath overworld
+[02Feb2025 17:28:53.364] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=945.34, y=112.25, z=-409.43] in list []
+[02Feb2025 17:28:53.463] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=945.34, y=112.00, z=-409.38]
+[02Feb2025 17:28:53.759] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=945.30, y=113.80, z=-409.30], dimensionLocationPath overworld
+[02Feb2025 17:28:53.759] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=945.30, y=113.80, z=-409.30] in list []
+[02Feb2025 17:29:45.845] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/38182, l='ServerLevel[world]', x=940.48, y=114.19, z=-411.37], dimensionLocationPath overworld
+[02Feb2025 17:29:45.845] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/38182, l='ServerLevel[world]', x=940.48, y=114.19, z=-411.37] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@d0b]
+[02Feb2025 17:29:59.895] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Air'/38182, l='ServerLevel[world]', x=941.31, y=112.00, z=-410.99]
+[02Feb2025 17:30:23.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 17:30:23.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 17:31:31.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=895, y=122, z=-421} BlockPos{x=895, y=121, z=-423}
+[02Feb2025 17:31:32.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=895, y=122, z=-421} BlockPos{x=894, y=122, z=-422}
+[02Feb2025 17:33:49.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=895, y=121, z=-423} BlockPos{x=893, y=120, z=-423}
+[02Feb2025 17:35:23.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 17:35:23.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 17:36:13.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[02Feb2025 17:36:13.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[02Feb2025 17:36:13.761] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[02Feb2025 17:36:13.806] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['STRANJO'/3339, l='ServerLevel[world]', x=957.79, y=120.00, z=-429.72, removed=UNLOADED_WITH_PLAYER]
+[02Feb2025 17:36:30.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Feb2025 17:36:30.799] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[02Feb2025 17:36:30.800] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[02Feb2025 17:36:30.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Feb2025 17:36:30.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Feb2025 17:36:30.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Feb2025 17:36:30.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Feb2025 17:36:30.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02Feb2025 17:36:30.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[02Feb2025 17:36:30.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[02Feb2025 17:36:30.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[02Feb2025 17:36:30.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Feb2025 17:36:30.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[02Feb2025 17:36:30.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Feb2025 17:36:30.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[02Feb2025 17:36:30.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[02Feb2025 17:36:30.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[02Feb2025 17:36:30.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[02Feb2025 17:36:30.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[02Feb2025 17:36:30.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[02Feb2025 17:36:30.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 17:36:30.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 17:36:31.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Feb2025 17:36:31.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02Feb2025 17:36:31.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[02Feb2025 17:36:31.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[02Feb2025 17:36:31.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[02Feb2025 17:36:31.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Feb2025 17:36:31.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[02Feb2025 17:36:31.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Feb2025 17:36:31.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[02Feb2025 17:36:31.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[02Feb2025 17:36:31.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[02Feb2025 17:36:31.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[02Feb2025 17:36:31.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[02Feb2025 17:36:31.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[02Feb2025 17:36:31.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Feb2025 17:36:31.187] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Feb2025 17:36:31.187] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/nigaaaaa2/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23254!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23338!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23333!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02Feb2025 17:36:31.188] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[02Feb2025 17:36:31.190] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[02Feb2025 17:36:31.190] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[02Feb2025 17:36:31.190] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
