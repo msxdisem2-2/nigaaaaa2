@@ -83,3 +83,20 @@
 [03Feb2025 02:26:51.541] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e78234[id=<null>,name=STRANJO,properties={},legacy=false] (/100.94.65.49:55206) lost connection: Disconnected
 [03Feb2025 02:27:03.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=900, y=144, z=-422} BlockPos{x=901, y=144, z=-422}
 [03Feb2025 02:27:07.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=908, y=144, z=-415} BlockPos{x=907, y=143, z=-418}
+[03Feb2025 02:28:31.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.94.65.49:55290] logged in with entity id 69930 at (911.5111501695278, 150.0, -454.69999998807907)
+[03Feb2025 02:28:31.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[03Feb2025 02:28:31.851] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[03Feb2025 02:28:31.851] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[03Feb2025 02:28:31.851] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[03Feb2025 02:28:31.853] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[03Feb2025 02:28:33.813] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[03Feb2025 02:30:48.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=929, y=143, z=-413} BlockPos{x=926, y=143, z=-415}
+[03Feb2025 02:31:41.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=941, y=139, z=-433} BlockPos{x=939, y=139, z=-433}
+[03Feb2025 02:31:50.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[03Feb2025 02:32:54.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=911, y=144, z=-458} BlockPos{x=910, y=143, z=-458}
+[03Feb2025 02:33:18.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=914, y=137, z=-462} BlockPos{x=912, y=136, z=-462}
+[03Feb2025 02:33:45.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=902, y=139, z=-400} BlockPos{x=901, y=137, z=-401}
+[03Feb2025 02:34:15.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 845.500000, 112.500000, -416.500000]
+[03Feb2025 02:34:56.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:MONTAÑA PLANA:M:845:112:-417:8:false:0:Internal-overworld-waypoints
+[03Feb2025 02:36:36.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[03Feb2025 02:36:57.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
