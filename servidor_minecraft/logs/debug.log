@@ -24948,3 +24948,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Feb2025 03:36:58.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=977, y=124, z=-381} BlockPos{x=977, y=124, z=-380}
 [03Feb2025 03:36:58.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=977, y=124, z=-381} BlockPos{x=977, y=124, z=-380}
 [03Feb2025 03:36:58.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=977, y=124, z=-381} BlockPos{x=977, y=124, z=-380}
+[03Feb2025 03:39:58.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 03:39:58.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 03:43:08.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[03Feb2025 03:43:14.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 690.500000, 108.500000, -301.500000]
+[03Feb2025 03:43:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]
+[03Feb2025 03:44:58.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 03:44:58.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

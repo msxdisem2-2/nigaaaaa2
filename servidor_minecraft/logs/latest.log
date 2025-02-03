@@ -11015,3 +11015,6 @@
 [03Feb2025 03:36:58.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=977, y=124, z=-381} BlockPos{x=977, y=124, z=-380}
 [03Feb2025 03:36:58.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=977, y=124, z=-381} BlockPos{x=977, y=124, z=-380}
 [03Feb2025 03:36:58.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=977, y=124, z=-381} BlockPos{x=977, y=124, z=-380}
+[03Feb2025 03:43:08.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[03Feb2025 03:43:14.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 690.500000, 108.500000, -301.500000]
+[03Feb2025 03:43:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 839.500000, 112.500000, -424.500000]
