@@ -12054,3 +12054,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Feb2025 00:05:54.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=883, y=122, z=-439} BlockPos{x=882, y=121, z=-438}
 [03Feb2025 00:05:54.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=883, y=122, z=-439} BlockPos{x=882, y=121, z=-438}
 [03Feb2025 00:05:54.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=883, y=123, z=-440} BlockPos{x=882, y=121, z=-438}
+[03Feb2025 00:06:27.042] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1290, l='ServerLevel[world]', x=885.78, y=112.00, z=-435.64]
+[03Feb2025 00:06:32.887] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1290, l='ServerLevel[world]', x=881.74, y=120.00, z=-432.63], dimensionLocationPath overworld
+[03Feb2025 00:06:32.887] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1290, l='ServerLevel[world]', x=881.74, y=120.00, z=-432.63] in list []
+[03Feb2025 00:06:42.795] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/1290, l='ServerLevel[world]', x=904.29, y=120.00, z=-432.86]
+[03Feb2025 00:06:52.674] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/FilterLogicContainerBase$TagSelectionSlot (target of net/minecraft/world/inventory/Slot)
+[03Feb2025 00:06:52.675] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/common/gui/FilterSlotItemHandler (target of net/minecraft/world/inventory/Slot)
+[03Feb2025 00:07:08.987] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/1290, l='ServerLevel[world]', x=894.94, y=120.00, z=-431.13], dimensionLocationPath overworld
+[03Feb2025 00:07:08.987] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/1290, l='ServerLevel[world]', x=894.94, y=120.00, z=-431.13] in list []
+[03Feb2025 00:08:12.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 00:08:12.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 00:13:12.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 00:13:12.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
