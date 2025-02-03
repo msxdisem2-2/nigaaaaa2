@@ -70,3 +70,16 @@
 [03Feb2025 02:13:17.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:MONTAÑA PLANA:M:845:112:-417:8:false:0:Internal-overworld-waypoints
 [03Feb2025 02:13:50.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 993.500000, 98.500000, -495.500000]
 [03Feb2025 02:14:20.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=921, y=150, z=-454} BlockPos{x=921, y=149, z=-453}
+[03Feb2025 02:23:58.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=897, y=142, z=-421} BlockPos{x=897, y=141, z=-422}
+[03Feb2025 02:23:59.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=898, y=142, z=-421} BlockPos{x=897, y=141, z=-422}
+[03Feb2025 02:24:48.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=912, y=146, z=-421} BlockPos{x=913, y=146, z=-422}
+[03Feb2025 02:24:48.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=912, y=146, z=-421} BlockPos{x=913, y=146, z=-422}
+[03Feb2025 02:24:54.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=906, y=145, z=-419} BlockPos{x=905, y=144, z=-419}
+[03Feb2025 02:24:57.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=910, y=145, z=-424} BlockPos{x=910, y=145, z=-423}
+[03Feb2025 02:26:01.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[03Feb2025 02:26:01.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[03Feb2025 02:26:01.002] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[03Feb2025 02:26:38.053] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@402a816d[id=<null>,name=STRANJO,properties={},legacy=false] (/100.94.65.49:55191) lost connection: Disconnected
+[03Feb2025 02:26:51.541] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e78234[id=<null>,name=STRANJO,properties={},legacy=false] (/100.94.65.49:55206) lost connection: Disconnected
+[03Feb2025 02:27:03.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=900, y=144, z=-422} BlockPos{x=901, y=144, z=-422}
+[03Feb2025 02:27:07.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=908, y=144, z=-415} BlockPos{x=907, y=143, z=-418}
