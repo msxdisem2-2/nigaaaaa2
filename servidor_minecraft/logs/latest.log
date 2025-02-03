@@ -757,3 +757,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Feb2025 22:20:57.838] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [03Feb2025 22:21:13.538] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [03Feb2025 22:21:15.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18361ms or 367 ticks behind
+[03Feb2025 22:23:17.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=914, y=135, z=-393} BlockPos{x=942, y=136, z=-433}
+[03Feb2025 22:28:51.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=137, z=-440} BlockPos{x=923, y=138, z=-440}
+[03Feb2025 22:28:51.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=137, z=-440} BlockPos{x=923, y=138, z=-440}
+[03Feb2025 22:28:51.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=137, z=-440} BlockPos{x=923, y=138, z=-440}
+[03Feb2025 22:28:51.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=137, z=-440} BlockPos{x=923, y=138, z=-440}
+[03Feb2025 22:28:51.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=137, z=-440} BlockPos{x=923, y=138, z=-440}
+[03Feb2025 22:28:51.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=137, z=-440} BlockPos{x=923, y=138, z=-440}
+[03Feb2025 22:28:52.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=137, z=-440} BlockPos{x=923, y=138, z=-440}
+[03Feb2025 22:28:52.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=137, z=-440} BlockPos{x=923, y=138, z=-440}
+[03Feb2025 22:29:09.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=898, y=139, z=-434} BlockPos{x=898, y=138, z=-434}
