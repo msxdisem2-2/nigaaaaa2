@@ -33,3 +33,6 @@
 [03Feb2025 00:29:32.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=957, y=121, z=-400} BlockPos{x=958, y=120, z=-396}
 [03Feb2025 00:29:32.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=957, y=121, z=-400} BlockPos{x=958, y=120, z=-396}
 [03Feb2025 00:29:32.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=957, y=121, z=-400} BlockPos{x=958, y=120, z=-396}
+[03Feb2025 00:50:53.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=976, y=123, z=-358} BlockPos{x=976, y=122, z=-358}
+[03Feb2025 00:51:03.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=979, y=127, z=-366} BlockPos{x=979, y=124, z=-367}
+[03Feb2025 00:56:45.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 839.500000, 112.500000, -424.500000]
