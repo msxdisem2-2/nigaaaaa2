@@ -11093,9 +11093,10 @@
   },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_gold_block": "2025-01-17 22:46:42 +0000"
+      "has_gold_block": "2025-01-17 22:46:42 +0000",
+      "has_the_recipe": "2025-02-03 02:37:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
     "criteria": {
