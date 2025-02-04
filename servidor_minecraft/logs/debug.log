@@ -12061,3 +12061,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 02:37:35.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=874, y=133, z=-440} BlockPos{x=874, y=133, z=-441}
 [04Feb2025 02:37:35.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=873, y=134, z=-440} BlockPos{x=874, y=133, z=-441}
 [04Feb2025 02:37:57.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=880, y=133, z=-426} BlockPos{x=882, y=133, z=-429}
+[04Feb2025 02:38:43.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=891, y=137, z=-465} BlockPos{x=892, y=137, z=-466}
+[04Feb2025 02:39:03.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=889, y=136, z=-475} BlockPos{x=890, y=135, z=-476}
+[04Feb2025 02:39:03.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=889, y=136, z=-475} BlockPos{x=890, y=135, z=-476}
+[04Feb2025 02:39:03.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=889, y=136, z=-475} BlockPos{x=890, y=135, z=-476}
+[04Feb2025 02:39:03.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=889, y=136, z=-475} BlockPos{x=890, y=135, z=-476}
+[04Feb2025 02:40:19.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 02:40:19.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 02:40:36.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=934, y=136, z=-481} BlockPos{x=930, y=138, z=-480}
+[04Feb2025 02:40:36.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=934, y=136, z=-481} BlockPos{x=930, y=138, z=-480}
+[04Feb2025 02:41:05.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=899, y=137, z=-473} BlockPos{x=900, y=138, z=-472}
+[04Feb2025 02:41:05.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=900, y=137, z=-472} BlockPos{x=900, y=138, z=-472}
+[04Feb2025 02:41:05.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=900, y=137, z=-471} BlockPos{x=900, y=138, z=-472}
+[04Feb2025 02:41:05.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=900, y=136, z=-471} BlockPos{x=900, y=138, z=-472}
+[04Feb2025 02:41:05.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=900, y=136, z=-471} BlockPos{x=900, y=138, z=-472}
+[04Feb2025 02:41:05.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=900, y=136, z=-471} BlockPos{x=900, y=138, z=-472}
+[04Feb2025 02:41:05.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=900, y=136, z=-471} BlockPos{x=900, y=138, z=-472}
+[04Feb2025 02:44:20.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=135, z=-445} BlockPos{x=904, y=135, z=-438}
+[04Feb2025 02:44:20.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=939, y=135, z=-445} BlockPos{x=904, y=135, z=-438}
+[04Feb2025 02:45:19.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 02:45:19.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
