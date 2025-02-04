@@ -807,3 +807,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 03:24:07.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=897, y=141, z=-499} BlockPos{x=897, y=140, z=-501}
 [04Feb2025 03:36:55.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=917, y=131, z=-404} BlockPos{x=916, y=131, z=-404}
 [04Feb2025 03:36:55.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=917, y=131, z=-404} BlockPos{x=916, y=131, z=-404}
+[04Feb2025 03:45:29.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[04Feb2025 03:45:29.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[04Feb2025 03:45:29.123] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[04Feb2025 03:47:11.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Feb2025 03:47:11.305] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[04Feb2025 03:47:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Feb2025 03:47:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Feb2025 03:47:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Feb2025 03:47:11.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Feb2025 03:47:11.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[04Feb2025 03:47:11.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[04Feb2025 03:47:11.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[04Feb2025 03:47:11.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[04Feb2025 03:47:11.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[04Feb2025 03:47:11.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[04Feb2025 03:47:11.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[04Feb2025 03:47:11.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[04Feb2025 03:47:11.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[04Feb2025 03:47:11.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[04Feb2025 03:47:11.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Feb2025 03:47:11.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[04Feb2025 03:47:11.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Feb2025 03:47:11.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Feb2025 03:47:11.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[04Feb2025 03:47:11.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[04Feb2025 03:47:11.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[04Feb2025 03:47:11.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[04Feb2025 03:47:11.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[04Feb2025 03:47:11.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[04Feb2025 03:47:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[04Feb2025 03:47:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[04Feb2025 03:47:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[04Feb2025 03:47:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[04Feb2025 03:47:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Feb2025 03:47:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[04Feb2025 03:47:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Feb2025 03:47:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Feb2025 03:47:11.586] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Feb2025 03:47:11.588] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[04Feb2025 03:47:11.591] [Server thread/INFO] [Framework/]: Finished unloading server configs
