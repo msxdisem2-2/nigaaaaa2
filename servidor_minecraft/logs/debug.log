@@ -12092,3 +12092,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 03:03:03.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=917, y=135, z=-439} BlockPos{x=918, y=134, z=-439}
 [04Feb2025 03:05:19.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Feb2025 03:05:19.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:10:19.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:10:19.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:15:06.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=917, y=134, z=-478} BlockPos{x=917, y=133, z=-478}
+[04Feb2025 03:15:19.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:15:19.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:16:12.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=937, y=132, z=-469} BlockPos{x=938, y=132, z=-469}
