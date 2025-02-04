@@ -12105,3 +12105,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 20:53:35.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Feb2025 20:53:35.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Feb2025 20:56:20.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=933, y=130, z=-484} BlockPos{x=933, y=130, z=-485}
+[04Feb2025 20:58:35.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 20:58:35.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 21:01:12.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=885, y=133, z=-462} BlockPos{x=884, y=130, z=-461}
+[04Feb2025 21:01:39.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[04Feb2025 21:01:39.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[04Feb2025 21:01:39.658] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[04Feb2025 21:03:35.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 21:03:35.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
