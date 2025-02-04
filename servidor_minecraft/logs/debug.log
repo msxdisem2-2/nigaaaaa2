@@ -12042,3 +12042,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 20:32:38.975] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/util/FilterItemStackHandler (target of net/minecraftforge/items/IItemHandler)
 [04Feb2025 20:33:35.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Feb2025 20:33:35.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 20:36:54.494] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/FilterLogicContainerBase$TagSelectionSlot (target of net/minecraft/world/inventory/Slot)
+[04Feb2025 20:36:54.496] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/common/gui/FilterSlotItemHandler (target of net/minecraft/world/inventory/Slot)
+[04Feb2025 20:38:35.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 20:38:35.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 20:41:39.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=132, z=-437} BlockPos{x=878, y=132, z=-437}
+[04Feb2025 20:41:39.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=132, z=-437} BlockPos{x=878, y=132, z=-437}
+[04Feb2025 20:41:39.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=132, z=-437} BlockPos{x=878, y=132, z=-437}
+[04Feb2025 20:41:39.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=132, z=-437} BlockPos{x=878, y=132, z=-437}
+[04Feb2025 20:41:39.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=132, z=-437} BlockPos{x=878, y=132, z=-437}
+[04Feb2025 20:41:59.234] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=868, y=135, z=-448}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:00.128] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=865, y=136, z=-448}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:00.679] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=865, y=135, z=-448}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:01.132] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=865, y=137, z=-447}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:01.574] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=866, y=137, z=-448}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:01.980] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=865, y=137, z=-448}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:02.381] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=865, y=138, z=-448}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:07.925] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=865, y=140, z=-448}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:08.578] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=865, y=141, z=-448}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:17.627] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=865, y=143, z=-448}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:20.123] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=867, y=138, z=-448}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:22.688] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=865, y=133, z=-448}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:25.683] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=868, y=135, z=-450}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:30.724] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=872, y=133, z=-450}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:31.124] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=872, y=135, z=-450}) doesn't have enough leaves around top most log
+[04Feb2025 20:42:35.227] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=872, y=136, z=-450}) doesn't have enough leaves around top most log
+[04Feb2025 20:43:05.330] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=868, y=136, z=-454}) doesn't have enough leaves around top most log
+[04Feb2025 20:43:24.731] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=872, y=133, z=-454}) doesn't have enough leaves around top most log
+[04Feb2025 20:43:35.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 20:43:35.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

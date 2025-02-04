@@ -755,3 +755,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 20:31:59.529] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [04Feb2025 20:32:14.607] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [04Feb2025 20:32:16.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17768ms or 355 ticks behind
+[04Feb2025 20:41:39.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=132, z=-437} BlockPos{x=878, y=132, z=-437}
+[04Feb2025 20:41:39.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=132, z=-437} BlockPos{x=878, y=132, z=-437}
+[04Feb2025 20:41:39.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=132, z=-437} BlockPos{x=878, y=132, z=-437}
+[04Feb2025 20:41:39.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=132, z=-437} BlockPos{x=878, y=132, z=-437}
+[04Feb2025 20:41:39.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=132, z=-437} BlockPos{x=878, y=132, z=-437}
