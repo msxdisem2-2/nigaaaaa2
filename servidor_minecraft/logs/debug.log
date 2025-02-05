@@ -12345,3 +12345,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 00:29:37.868] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/15774, l='ServerLevel[world]', x=860.71, y=118.47, z=-404.63], dimensionLocationPath overworld
 [05Feb2025 00:29:37.868] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/15774, l='ServerLevel[world]', x=860.71, y=118.47, z=-404.63] in list []
 [05Feb2025 00:29:38.668] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Air'/15774, l='ServerLevel[world]', x=859.49, y=114.04, z=-403.19]
+[05Feb2025 00:34:00.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 00:34:00.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 00:38:48.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=882, y=114, z=-393} BlockPos{x=883, y=111, z=-394}
+[05Feb2025 00:38:48.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=883, y=114, z=-393} BlockPos{x=883, y=111, z=-394}
+[05Feb2025 00:38:48.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=883, y=114, z=-393} BlockPos{x=883, y=111, z=-394}
+[05Feb2025 00:39:00.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 00:39:00.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
