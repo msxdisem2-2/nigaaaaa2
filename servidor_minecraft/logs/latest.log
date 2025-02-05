@@ -4,3 +4,16 @@
 [05Feb2025 00:15:24.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=904, y=118, z=-441} BlockPos{x=903, y=116, z=-441}
 [05Feb2025 00:15:24.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=905, y=115, z=-441} BlockPos{x=903, y=116, z=-441}
 [05Feb2025 00:15:24.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=905, y=115, z=-441} BlockPos{x=903, y=116, z=-441}
+[05Feb2025 00:23:44.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[05Feb2025 00:23:44.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[05Feb2025 00:23:44.740] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[05Feb2025 00:23:56.030] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.94.65.49:54865] logged in with entity id 13836 at (906.6999999880791, 99.0, -421.30000001192093)
+[05Feb2025 00:23:56.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[05Feb2025 00:23:56.078] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[05Feb2025 00:23:56.078] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[05Feb2025 00:23:56.078] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[05Feb2025 00:23:56.081] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[05Feb2025 00:23:56.470] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[05Feb2025 00:23:57.324] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[05Feb2025 00:23:57.327] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[05Feb2025 00:24:24.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: The difficulty has been set to Peaceful]
